@@ -9,8 +9,7 @@ Este projeto em Python realiza a extração de dados de países usando a API RES
 - Uso da biblioteca `requests` para fazer requisições HTTP à API REST Countries.
 - Conexão com banco de dados PostgreSQL via `psycopg2`.
 - Criação e manipulação de tabelas SQL para armazenar dados dos países.
-- Funções para inserir dados no banco (POST) e recuperar dados armazenados (GET).
-- Web scraping básico para complementar a coleta de dados.    
+- Funções para inserir dados no banco (POST) e recuperar dados armazenados (GET).  
 - Implementação modular com classes para repositórios e serviços, facilitando expansão.
 
 ---
